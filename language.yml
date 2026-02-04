@@ -6,6 +6,7 @@
 # /p reload Ingame! Fertig
 
 # VERSION: 1.1
+# github.com/dgamerworlds251/Plotsquared-DE
 
 {
   "confirm.expired_confirm": "<prefix><red>Confirmation has expired, please run the command again!</red>",
